@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace rpa_utilities
 {
-    public class Class1
+    public class SendEmail
     {
     }
 }
